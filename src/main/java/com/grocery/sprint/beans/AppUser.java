@@ -10,6 +10,7 @@ public class AppUser {
 	
 	@Id
 	private long userId;
+	private int bruh;
 	private String password;
 	private String userType;
 	
